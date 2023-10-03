@@ -1,8 +1,10 @@
-### UmpaHujZalumpa 👋
+# UmpaHujZalumpa 👋
 
 <!--
-** My conacts 
-** My skills
+## My conacts 
+### +875360283765026502
+## My skills
+### I'm learning to be a tester 
 
 Here are some ideas to get you started:
 
